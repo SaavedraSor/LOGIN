@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="txt_nombre">Nombre</string>
+    <string name="txt_password">Password</string>
+    <string name="bottom">Iniciar</string>
+</resources>
